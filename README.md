@@ -35,7 +35,9 @@ The analysis includes:
 • Hypothesis testing (Welch two-sample t-test)
 • Linear regression
 • Multiple linear regression
+### Example Visualization
 
+![HR_Attrition_R_Analysis](boxplot_age_attrition.png))
 Key Findings
 
 • Employees who left the company were younger on average
